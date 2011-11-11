@@ -17,8 +17,10 @@ jquwery sticky
  * Add style as parameter option
  
  Example:
- $.sticky('hello world',{position:"up-right", style:"width:500px", onClose:function(){alert('I am closing')});
- $.sticky('hello world',{position:"bottom-right", style:"background-color:#cccccc");
- multiple sticky can be displayed at the same time in different positions
 
+ $.sticky('hello world',{position:"up-right", style:"width:500px", onClose:function(){alert('I am closing')});
+
+ $.sticky('hello world',{position:"bottom-right", style:"background-color:#cccccc");
+ 
+ multiple sticky can be displayed at the same time in different positions
 
